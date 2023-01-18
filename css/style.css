@@ -110,7 +110,7 @@ body {
 
 .title {
   font-weight: 700;
-  font-size: 4.75rem;
+  font-size: 4.55rem;
   margin-bottom: 3.125rem;
   margin-top: 0;
   color: var(--AlmostBlack);
@@ -326,7 +326,7 @@ body {
   }
 
   .navbar {
-    padding: 1.25rem 2.8125rem;
+    padding: 1rem 2rem;
     display: flex;
     align-items: center;
   }
